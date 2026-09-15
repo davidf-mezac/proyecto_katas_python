@@ -27,7 +27,7 @@ A lo largo del código, se demuestra el dominio práctico de los siguientes conc
 ---
 
 ## Cómo explorar este proyecto
-1. El archivo principal con la solución es un archivo `.py` llamado `katas_paso_paso.py` que incluye la resolución secuencial de todos los ejercicios
+1. El archivo principal con la solución es un archivo `.py` llamado `katas.py` que incluye la resolución secuencial de todos los ejercicios
 2. Cada Kata está encabezada con un comentario que detalla el enunciado original para dar contexto a la solución programada
 3. Además de la lógica principal, se han incluido bloques de prueba ("Casos de uso") para ejecutar y validar el funcionamiento individual de cada función o clase.
 4. Se han añadido comentarios explicativos en los bloques de código más complejos, documentando el razonamiento detrás de cada solución
